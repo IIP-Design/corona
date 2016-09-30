@@ -31,6 +31,9 @@ define('NONCE_SALT',        getenv('CORONA_NONCE_SALT'));
 
 $table_prefix = 'wp_';
 
+define( 'WP_HOME', 'http://corona.edit.america.dev' );
+define( 'WP_SITEURL', 'http://corona.edit.america.dev/wp' );
+
 
 define( 'JETPACK_DEV_DEBUG', true );
 define( 'WP_DEBUG', false );
