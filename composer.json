@@ -33,7 +33,7 @@
         "fancyguy/webroot-installer": "1.1.0",
         "koodimonni/composer-dropin-installer": "1.0.1",
         "wpackagist-plugin/wordpress-importer": "0.6.3",
-        "iip-design/corona": "2.8.0"
+        "iip-design/corona": "2.10.2"
     },
     "extra": {
       "dropin-paths": {
