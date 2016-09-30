@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "94801076eb5340fd8557fe53abd1fb41",
-    "content-hash": "2b27031d362c21ab99d91d169cf6afff",
+    "hash": "f35ef07799dbc534562eb84e277fa8ff",
+    "content-hash": "09a660b6305c863182851dba5c6df7f3",
     "packages": [
         {
             "name": "composer/installers",
@@ -149,7 +149,7 @@
             "version": "v2.8.0",
             "source": {
                 "type": "git",
-                "url": "git@github.com:IIP-Design/corona.git",
+                "url": "git@github.com:IIP-Design/corona-theme.git",
                 "reference": "993e1b480f77b50d773802e578a5cba62685ea71"
             },
             "require": {
